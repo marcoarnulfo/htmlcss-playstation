@@ -12,19 +12,6 @@
 }
 
 
-
-.debug nav{
-    width: 100%;
-    height: 100px;
-    background-color: green;
-}
-
-.debug .top_nav{
-    width: 100%;
-    height: 30px;
-    background-color: var(--top_nav);
-}
-
 .debug .jumbotron,
 .debug .takes_two{
     width: 100%;
@@ -68,6 +55,26 @@
     background-color: var(--footer_bg);
 }
 
+
+
+/* #region header */ 
+
+.nav_button{
+    background-color: var(--nav_button);
+}
+
+.top_nav{
+    background-color: var(--top_nav);
+}
+
+.sony_top{
+    width: 80px;
+}
+
 .footer_logo{
     width: 130px;
+    margin: 1rem;
 }
+
+/* #endregion header */ 
+
