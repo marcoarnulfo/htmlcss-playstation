@@ -63,3 +63,11 @@
 .now{
     background-color: var(--now_bg);
 }
+
+#site_footer{
+    background-color: var(--footer_bg);
+}
+
+.footer_logo{
+    width: 130px;
+}
