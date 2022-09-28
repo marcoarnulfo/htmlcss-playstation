@@ -10,3 +10,36 @@
     --alt_bg: #BEBCBB;
     --footer_bg: #00439C;
 }
+
+
+
+.debug nav{
+    width: 100%;
+    height: 100px;
+    background-color: green;
+}
+
+.debug .top_nav{
+    width: 100%;
+    height: 30px;
+    background-color: var(--top_nav);
+}
+
+.debug .jumbotron{
+    width: 100%;
+    height: 400px;
+    background-color: #000000;
+}
+
+.debug .game{
+    width: 150px;
+    height: 70px;
+    background-color: green;
+}
+
+.debug .no_limits{
+    width: 300px;
+    height: 200px;
+    background-color: green;
+    text-align: center;
+}
