@@ -19,9 +19,7 @@ nav{
     box-shadow: 0 0 20px black;
 }
 
-.test {
-    width: 80%;
-}
+
 
 .bg_game{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
@@ -106,6 +104,28 @@ nav{
 .footer_logo {
     width: 130px;
     margin: 1rem;
+}
+
+.test {
+    width: 60%;
+}
+
+.ps_5{
+    border-bottom: 2px solid var(--alt_button);
+    padding-bottom: 3rem;
+    cursor: pointer;
+}
+
+.accessori{
+    opacity: 0.5;
+}
+
+.accessori:hover{
+    opacity: 1;
+    border-bottom: 2px solid var(--alt_button);
+    padding-bottom: 3rem;
+    transition: 0.5s;
+    cursor: pointer;
 }
 
 .logo {
